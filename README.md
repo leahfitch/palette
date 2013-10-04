@@ -1,4 +1,3 @@
-palette
-=======
+# palette
 
-Create a color palette from an image
+Create a color palette from an image.
